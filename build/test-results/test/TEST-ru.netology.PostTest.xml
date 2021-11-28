@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.PostTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-27T20:29:05" hostname="DESKTOP-0893DTE" time="5.83">
+<testsuite name="ru.netology.PostTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-28T06:42:05" hostname="DESKTOP-0893DTE" time="6.05">
   <properties/>
-  <testcase name="shouldSendRequestPost()" classname="ru.netology.PostTest" time="5.83"/>
+  <testcase name="shouldSendRequestPost()" classname="ru.netology.PostTest" time="6.05"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
